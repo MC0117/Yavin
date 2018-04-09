@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Yavin
 {
-    class Program
+    class CORE
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
